@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/RetroGold95/x.s-devcamp-js-footer#readme",
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   }
 }
